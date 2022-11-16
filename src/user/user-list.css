@@ -1,0 +1,7 @@
+.user-list {
+    /* overflow-y: scroll;
+    height: 500px; */
+    display: flex;
+    flex-wrap: wrap;
+    margin-right:30px;
+  }

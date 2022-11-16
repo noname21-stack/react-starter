@@ -1,3 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+
 }
+.App .list{
+  flex:2;
+}
+.App .Form{
+  flex: 1;
+}
+
